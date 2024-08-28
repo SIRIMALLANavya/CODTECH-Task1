@@ -1,8 +1,8 @@
-**Name:** Pallam Natesh
+**Name:** Sirimalla Navya
 
 **Company**: CODTECH IT SOLUTIONS
 
-**ID:** CT6WDS1609
+**ID:** CT08DS6727
 
 **Domain:** VLSI
 
@@ -22,65 +22,68 @@
 
 Design and implement a Finite State Machine (FSM) that can model and control a specific system or process, such as:
 
-A vending machine
+1.A vending machine
 
-A traffic light controller
+2.A traffic light controller
 
-A digital clock
+3.A digital clock
 
-A robotic arm
+4.A robotic arm
 
 **Key Activities:**
 
-Requirements gathering: Define project scope, goals, and deliverables.
+1.Requirements gathering: Define project scope, goals, and deliverables.
 
-System analysis: Study the system or process to be modeled by the FSM.
+2.System analysis: Study the system or process to be modeled by the FSM.
 
-State identification: Identify and define the states of the system or process.
+3.State identification: Identify and define the states of the system or process.
 
-Transition definition: Define the transitions between states.
+4.Transition definition: Define the transitions between states.
 
-State transition diagram/table creation: Create a visual representation of the FSM.
+5.State transition diagram/table creation: Create a visual representation of the FSM.
 
-FSM implementation: Write code or design hardware to implement the FSM.
+6.FSM implementation: Write code or design hardware to implement the FSM.
 
-Simulation/testing: Verify and validate the FSM through simulation or testing.
+7.Simulation/testing: Verify and validate the FSM through simulation or testing.
 
-Debugging: Identify and fix errors or issues in the FSM.
+8.Debugging: Identify and fix errors or issues in the FSM.
 
-Optimization: Refine the FSM for efficiency, scalability, and reliability.
+9.Optimization: Refine the FSM for efficiency, scalability, and reliability.
 
-Documentation: Write a report detailing the FSM design and implementation.
+10.Documentation: Write a report detailing the FSM design and implementation.
 
-Testing and validation: Develop test cases and report results.
+11.Testing and validation: Develop test cases and report results.
 
-Review and revision: Review the FSM design and implementation, and make revisions as needed.
+12.Review and revision: Review the FSM design and implementation, and make revisions as needed.
 
-Technologies Used:
+**Technologies Used:**
 
 Programming languages:
 
-   C
+     C
    
-   C++
+     C++
 
-   Python
+     Python
    
-   Java
+     Java
    
-   MATLAB
+     MATLAB
    
 **Hardware description languages:**
 
-   VHDL (VHSIC-HDL)
-   Verilog
-   SystemC
+     VHDL(VHSIC-HDL)
+     
+     Verilog
+     
+     System
+     
 **Simulation tools**:
 
-   ModelSim
+     ModelSim
    
-   QuestaSim
+     QuestaSim
    
-   Vivado Simulator
+     Vivado Simulator
    
-   Simulink
+     Simulink
