@@ -58,7 +58,7 @@ Design and implement a Finite State Machine (FSM) that can model and control a s
 
 **Technologies Used:**
 
-Programming languages:
+**Programming languages**:
 
      C
    
